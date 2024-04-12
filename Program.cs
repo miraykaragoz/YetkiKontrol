@@ -27,7 +27,6 @@
             {
                 Console.WriteLine("Hatalı kullanıcı adı veya şifre");
             }
-
         }
     }
 }
