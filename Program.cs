@@ -21,11 +21,11 @@
 
             if (kullaniciAdi == girisKullanici && sifre == girisSifre)
             {
-                Console.WriteLine("Hoşgeldiniz");
+                Console.WriteLine("Hoşgeldiniz.");
             }
             else
             {
-                Console.WriteLine("Hatalı kullanıcı adı veya şifre");
+                Console.WriteLine("Hatalı kullanıcı adı veya şifre.");
             }
         }
     }
